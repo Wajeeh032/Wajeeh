@@ -1,0 +1,130 @@
+#hardware-image{
+    border-collapse: collapse;
+    height: 150px;
+    width: 200px;
+    left: 100px;
+    top: 100px;
+    background-color: #C7C7C7;
+    border-radius: 5%;
+    position: relative;
+}  
+
+#hardware-title{
+    height: 100px;
+    width: 830px;
+    left: 450px;
+    top: -125px;
+    background-color: #C7C7C7;
+    border-radius: 3%;
+    position: relative;
+}  
+
+#hardware-information{
+    border-collapse: collapse;
+    height: 200px;
+    width: 830px;
+    left: 450px;
+    top: -100px;
+    background-color: #C7C7C7;
+    border-radius: 3%;
+    position: relative;
+}  
+
+#hardware-img{
+    border-collapse: collapse;
+    height: 200px;
+    width: 200px;
+    left: 100px;
+    top: -150px;
+    background-color: clear;
+    border-radius: 5%;
+    position: relative;
+}  
+
+#hardware-subtitle{
+    border-collapse: collapse;
+    height: 50px;
+    width: 200px;
+    left: 1080px;
+    position: relative;
+    top: -290px;
+    background-color: #C7C7C7;
+    border-radius: 5%;
+}
+
+#hardware-pic{
+    border-collapse: collapse;
+    height: 150px;
+    width: 200px;
+    left: 1080px;
+    position: relative;
+    top: -275px;
+    background-color: #C7C7C7;
+    border-radius: 5%;
+}  
+
+#hardware-subtitle2{
+    border-collapse: collapse;
+    height: 50px;
+    width: 200px;
+    left: 450px;
+    position: relative;
+    top: -490px;
+    background-color: #C7C7C7;
+    border-radius: 5%;
+}  
+
+#hardware-pic2{
+    border-collapse: collapse;
+    height: 150px;
+    width: 200px;
+    left: 450px;
+    position: relative;
+    top: -475px;
+    background-color: #C7C7C7;
+    border-radius: 5%;
+}  
+
+#hardware-subtitle3{
+    border-collapse: collapse;
+    height: 50px;
+    width: 200px;
+    left: 660px;
+    position: relative;
+    top: -690px;
+    background-color: #C7C7C7;
+    border-radius: 5%;
+}  
+
+#hardware-pic3{
+    border-collapse: collapse;
+    height: 150px;
+    width: 200px;
+    left: 660px;
+    position: relative;
+    top: -675px;
+    background-color: #C7C7C7;
+    border-radius: 5%;
+}
+
+#hardware-subtitle4{
+    border-collapse: collapse;
+    height: 50px;
+    width: 200px;
+    left: 870px;
+    position: relative;
+    top: -890px;
+    background-color: #C7C7C7;
+    border-radius: 5%;
+}  
+
+#hardware-pic4{
+    border-collapse: collapse;
+    height: 150px;
+    width: 200px;
+    left: 870px;
+    position: relative;
+    top: -875px;
+    background-color: #C7C7C7;
+    border-radius: 5%;
+}  
